@@ -6,6 +6,9 @@ function App() {
     <div className="App-header">
       <h1>Weather App</h1>
       <Weather />
+      <footer>
+        <a href="https://github.com/Ruthie1008/Weather-React-App">GitHub</a>
+      </footer>
     </div>
   );
 }
